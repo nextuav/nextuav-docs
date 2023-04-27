@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Integration
-
+ 
 In this section you'd find the integration of main components.
 ![NextCC Integration](img/next-cc-integration.png)
 

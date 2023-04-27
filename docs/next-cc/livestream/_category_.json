@@ -1,8 +1,8 @@
 {
-  "label": "Live Stream",
+  "label": "Livestream",
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Live Stream"
+    "description": "Livestream"
   }
 }
